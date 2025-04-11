@@ -7,9 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/davidpaul551" target="blank"><img src="https://img.shields.io/twitter/follow/davidpaul551?logo=twitter&style=for-the-badge" alt="davidpaul551" /></a> </p>
 
-- 🔭 I’m currently working on **My Personal Portfolio**
-
-- 🌱 I’m currently learning **React.js**
 
 - 📫 How to reach me **pauldavid551@gmail.com**
 
